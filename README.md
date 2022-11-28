@@ -8,7 +8,7 @@ localhost:8080/bank-generous/operation/transfer
 
 This endpoint is for money transfer between accounts.
 
-####2- GET
+#### 2- GET
 
 localhost:8080/bank-generous/crud/account
 
